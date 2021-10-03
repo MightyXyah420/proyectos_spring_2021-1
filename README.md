@@ -1,7 +1,7 @@
 # proyectos_spring_2021-1
 Repositorio de los asistentes al curso de creación de API's con java ( Spring ) ofrecido por el grupo Semana de Ingenio y Diseño
 
-# Aprobados
+# Estudiantes
 Camilo Rodriguez Gutierrez 	    20201020111     https://github.com/CamiloRodriguezG/cursoAPIjava  
 
 Jorge Alberto Galeano Vélez	    20172020060     https://github.com/jagaleanov/SpringAPI  
